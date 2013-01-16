@@ -11,6 +11,6 @@
     "node": "0.8.x"
   },
   "dependencies": {
-    "knox": "0.4.x"
+    "henry": "https://github.com/ianshward/henry/tarball/master"
   }
 }
